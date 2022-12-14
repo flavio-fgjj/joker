@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Appiadas</string>
     <string name="label_joker_hint">Aqui será exibida a piada</string>
     <string name="button_new_joker">Conte outra piada</string>
     <string name="joker_one">Por que a aranha é o animal mais carente do mundo? Porque ela é um aracneedyou.</string>
