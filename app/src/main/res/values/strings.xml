@@ -1,13 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Appiadas</string>
-    <string name="button_new_joker">Tell another joke</string>
 
-    <string name="joker_one">Why is the spider the neediest animal in the world?\\nBecause she is an arachneedyou.</string>
-    <string name="joker_two">Why doesn\'t the pine tree get lost in the forest?\\nBecause it has a pine cone.</string>
-    <string name="joker_three">What was a pagodeiro doing in church? He went to sing PÁ GOD.</string>
-    <string name="joker_four">Why was Napoleon always called to parties?\\nBecause he was GOOD AT PARTY</string>
-    <string name="joker_five">What is the king of cheeses? It\'s the cottage cheese.</string>
-    <string name="joker_six">Why doesn\'t the old lady wear a watch?\\nBecause she is Lady.</string>
-    <string name="joker_seven">When did Americans first eat meat? time?\\nWhen did Cristovão Com Lombo arrive.</string>
-    <string name="label_joker_hint">Here the joker will be shown</string>
+    <string name="label_joker_hint">Aqui será exibida a piada</string>
+    <string name="button_new_joker">Conte outra piada</string>
+
+    <string name="joker_one">Por que a aranha é o animal mais carente do mundo?\nPorque ela é um aracneedyou.</string>
+    <string name="joker_two">Por que o pinheiro não se perde na floresta?\nPorque ele tem uma pinha.</string>
+    <string name="joker_three">O que um pagodeiro foi fazer na igreja?\nFoi cantar PÁ GOD.</string>
+    <string name="joker_four">Por que o Napoleão era chamado sempre pras festas?\nPorque ele era BOM NA PARTY</string>
+    <string name="joker_five">Qual é o rei dos queijos?\nÉ o reiqueijão.</string>
+    <string name="joker_six">Por que a velhinha não usa relógio?\nPorque ela é senhora.</string>
+    <string name="joker_seven">Quando os americanos comeram carne pela primeira vez?\nQuando chegou Cristovão Com Lombo.</string>
 </resources>
